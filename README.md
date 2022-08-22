@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Yug Dev Bhandari
+### Hi there 👋, My name is Yug Dev Bhandari
 #### I am Computer Engineer And Data Scientist 
 I am Yug Dev Bhandari, with the ability to prepare data for practical analysis and recently pursuing a post-graduate degree in artificial intelligence and machine learning. I’m particularly interested in how Artificial intelligence can be used in business to understand data insights and bring out patterns and predictions from data that benefit the community.
 I have broad-based expertise in building data-intensive applications and overcoming complex architectural and scalability issues in diverse industries. Proficient in predictive modelling, data processing, data mining algorithms, and scripting languages, including Python, Java and R, Matlab. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
