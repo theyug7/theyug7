@@ -5,7 +5,7 @@ I have broad-based expertise in building data-intensive applications and overcom
 Not only from formal education, but I have also achieved certification courses from LinkedIn learning and Udemy to further broaden my knowledge in the field of Artificial Intelligence Machine learning and other programming languages. 
 I am anxious to take on the challenge of constructing and displaying successful AI models. I want to be a part of a mission that employs AI-powered platforms to find and create machine learning models for the benefit of society.
 
-Skills: PYTHON / MATLAB / JS / HTML / CSS / JAVA / Machine Learning / Deep Learning
+Skills: PYTHON / MATLAB / JS / HTML / CSS / JAVA / Machine Learning / Deep Learning ? Data Science
 
 - 🔭 I’m currently working on Machine Learning And Artificial Intelligence 
 - 📫 How to reach me: yug.bhandari7@gmail.com ,C0852634@mylambton.ca
