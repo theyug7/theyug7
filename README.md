@@ -8,7 +8,7 @@ I am anxious to take on the challenge of constructing and displaying successful 
 Skills: PYTHON / MATLAB / JS / HTML / CSS / JAVA / Machine Learning / Deep Learning /Data Science
 
 - 🔭 I’m currently working on Machine Learning And Artificial Intelligence 
-- 📫 How to reach me: yug.bhandari7@gmail.com ,C0852634@mylambton.ca
+- 📫 How to reach me: theyug.bhandari7@gmail.com ,C0852634@mylambton.ca
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theyug7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yugdevbhandari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/trueheartprince)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/yug-bhandari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCIZLmWNSxxgrkbW_L4NJu_g)  
